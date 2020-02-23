@@ -1,0 +1,24 @@
+{
+  "name": "example-for-role-base-project",
+  "version": "1.0.0",
+  "description": "this is just example and sample project for authorization and role management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamidhmz/example-for-role-base-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamidhmz/example-for-role-base-project/issues"
+  },
+  "homepage": "https://github.com/hamidhmz/example-for-role-base-project#readme",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
