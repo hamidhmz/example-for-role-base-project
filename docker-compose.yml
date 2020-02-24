@@ -22,7 +22,7 @@ services:
     depends_on: ["mongo"]
   mongo:
     restart: always
-    image: mongo:4
+    image: mongo
     volumes:
       - mongo-data:/data/db
     ports:
